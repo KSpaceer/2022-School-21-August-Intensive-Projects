@@ -1,0 +1,514 @@
+INFO Tue Aug 23 06:59:55 2022
+ Starting a new session
+TRACE Tue Aug 23 06:59:55 2022
+ Choosing mode
+TRACE Tue Aug 23 06:59:56 2022
+ Opening a file for read
+TRACE Tue Aug 23 06:59:57 2022
+ Getting string from file
+TRACE Tue Aug 23 06:59:57 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 06:59:57 2022
+ Allocating memory
+TRACE Tue Aug 23 06:59:57 2022
+ Outputing the content of file
+TRACE Tue Aug 23 06:59:57 2022
+ Freeing buf memory
+TRACE Tue Aug 23 06:59:57 2022
+ Choosing mode
+TRACE Tue Aug 23 07:00:01 2022
+ Opening a file for read
+TRACE Tue Aug 23 07:00:03 2022
+ Getting string from file
+TRACE Tue Aug 23 07:00:03 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 07:00:03 2022
+ Allocating memory
+TRACE Tue Aug 23 07:00:03 2022
+ Outputing the content of file
+TRACE Tue Aug 23 07:00:03 2022
+ Freeing buf memory
+TRACE Tue Aug 23 07:00:03 2022
+ Choosing mode
+TRACE Tue Aug 23 07:00:11 2022
+ Starting appending to a file
+TRACE Tue Aug 23 07:00:11 2022
+ Getting string from stdin
+TRACE Tue Aug 23 07:00:11 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 07:00:11 2022
+ Allocating memory
+TRACE Tue Aug 23 07:00:12 2022
+ Getting string from file
+TRACE Tue Aug 23 07:00:12 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 07:00:12 2022
+ Allocating memory
+TRACE Tue Aug 23 07:00:12 2022
+ Concatenating strings
+TRACE Tue Aug 23 07:00:12 2022
+ Outputing the content of updated file
+TRACE Tue Aug 23 07:00:12 2022
+ Freeing buffers' memory
+TRACE Tue Aug 23 07:00:12 2022
+ Choosing mode
+TRACE Tue Aug 23 07:00:18 2022
+ Applying DES cipher to files
+TRACE Tue Aug 23 07:00:18 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 07:00:18 2022
+ Getting string from file
+TRACE Tue Aug 23 07:00:18 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 07:00:18 2022
+ Allocating memory
+TRACE Tue Aug 23 07:00:18 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 07:00:18 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 07:00:18 2022
+ Closing a file
+TRACE Tue Aug 23 07:00:18 2022
+ Freeing buf memory
+TRACE Tue Aug 23 07:00:18 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 07:00:18 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 07:00:18 2022
+ Getting string from file
+TRACE Tue Aug 23 07:00:18 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 07:00:18 2022
+ Allocating memory
+TRACE Tue Aug 23 07:00:18 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 07:00:18 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 07:00:18 2022
+ Closing a file
+TRACE Tue Aug 23 07:00:18 2022
+ Freeing buf memory
+TRACE Tue Aug 23 07:00:18 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 07:00:18 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 07:00:18 2022
+ Getting string from file
+TRACE Tue Aug 23 07:00:18 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 07:00:18 2022
+ Allocating memory
+TRACE Tue Aug 23 07:00:18 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 07:00:18 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 07:00:18 2022
+ Closing a file
+TRACE Tue Aug 23 07:00:18 2022
+ Freeing buf memory
+TRACE Tue Aug 23 07:00:18 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 07:00:18 2022
+ Getting string from file
+TRACE Tue Aug 23 07:00:18 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 07:00:18 2022
+ Allocating memory
+TRACE Tue Aug 23 07:00:18 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 07:00:18 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 07:00:18 2022
+ Closing a file
+TRACE Tue Aug 23 07:00:18 2022
+ Freeing buf memory
+TRACE Tue Aug 23 07:00:18 2022
+ Closing a directory
+TRACE Tue Aug 23 07:00:18 2022
+ Choosing mode
+INFO Tue Aug 23 07:00:19 2022
+ Turning off the program
+INFO Tue Aug 23 07:00:19 2022
+ Ending the session
+INFO Tue Aug 23 09:05:52 2022
+ Starting a new session
+TRACE Tue Aug 23 09:05:52 2022
+ Choosing mode
+TRACE Tue Aug 23 09:05:54 2022
+ Opening a file for read
+TRACE Tue Aug 23 09:05:56 2022
+ Getting string from file
+TRACE Tue Aug 23 09:05:56 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:05:56 2022
+ Allocating memory
+TRACE Tue Aug 23 09:05:56 2022
+ Outputing the content of file
+TRACE Tue Aug 23 09:05:56 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:05:56 2022
+ Choosing mode
+TRACE Tue Aug 23 09:05:59 2022
+ Starting appending to a file
+TRACE Tue Aug 23 09:05:59 2022
+ Getting string from stdin
+TRACE Tue Aug 23 09:05:59 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:05:59 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:04 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:04 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:04 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:04 2022
+ Concatenating strings
+TRACE Tue Aug 23 09:06:04 2022
+ Outputing the content of updated file
+TRACE Tue Aug 23 09:06:04 2022
+ Freeing buffers' memory
+TRACE Tue Aug 23 09:06:04 2022
+ Choosing mode
+TRACE Tue Aug 23 09:06:10 2022
+ Applying Caesar cipher to files
+TRACE Tue Aug 23 09:06:10 2022
+ Applying Caesar cipher to a .c file
+TRACE Tue Aug 23 09:06:10 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:10 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:10 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:11 2022
+ Starting Caesar ciphering
+TRACE Tue Aug 23 09:06:11 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 09:06:11 2022
+ Closing a file
+TRACE Tue Aug 23 09:06:11 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:11 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 09:06:11 2022
+ Applying Caesar cipher to a .c file
+TRACE Tue Aug 23 09:06:11 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:11 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:11 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:12 2022
+ Starting Caesar ciphering
+TRACE Tue Aug 23 09:06:12 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 09:06:12 2022
+ Closing a file
+TRACE Tue Aug 23 09:06:12 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:12 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 09:06:12 2022
+ Applying Caesar cipher to a .c file
+TRACE Tue Aug 23 09:06:12 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:12 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:12 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:12 2022
+ Starting Caesar ciphering
+TRACE Tue Aug 23 09:06:12 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 09:06:12 2022
+ Closing a file
+TRACE Tue Aug 23 09:06:12 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:12 2022
+ Applying Caesar cipher to a .c file
+TRACE Tue Aug 23 09:06:12 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:12 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:12 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:13 2022
+ Starting Caesar ciphering
+TRACE Tue Aug 23 09:06:13 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 09:06:13 2022
+ Closing a file
+TRACE Tue Aug 23 09:06:13 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:13 2022
+ Closing a directory
+TRACE Tue Aug 23 09:06:13 2022
+ Choosing mode
+TRACE Tue Aug 23 09:06:14 2022
+ Applying DES cipher to files
+TRACE Tue Aug 23 09:06:14 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 09:06:14 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:14 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:14 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:14 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 09:06:14 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 09:06:14 2022
+ Closing a file
+TRACE Tue Aug 23 09:06:14 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:14 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 09:06:14 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 09:06:14 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:14 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:14 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:14 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 09:06:14 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 09:06:14 2022
+ Closing a file
+TRACE Tue Aug 23 09:06:14 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:14 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 09:06:14 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 09:06:14 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:14 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:14 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:14 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 09:06:14 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 09:06:14 2022
+ Closing a file
+TRACE Tue Aug 23 09:06:14 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:14 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 09:06:14 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:14 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:14 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:14 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 09:06:14 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 09:06:14 2022
+ Closing a file
+TRACE Tue Aug 23 09:06:14 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:14 2022
+ Closing a directory
+TRACE Tue Aug 23 09:06:14 2022
+ Choosing mode
+TRACE Tue Aug 23 09:06:17 2022
+ Opening a file for read
+TRACE Tue Aug 23 09:06:19 2022
+ Getting string from file
+TRACE Tue Aug 23 09:06:19 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 09:06:19 2022
+ Allocating memory
+TRACE Tue Aug 23 09:06:19 2022
+ Outputing the content of file
+TRACE Tue Aug 23 09:06:19 2022
+ Freeing buf memory
+TRACE Tue Aug 23 09:06:19 2022
+ Choosing mode
+INFO Tue Aug 23 09:06:20 2022
+ Turning off the program
+INFO Tue Aug 23 09:06:20 2022
+ Ending the session
+INFO Tue Aug 23 19:40:34 2022
+ Starting a new session
+TRACE Tue Aug 23 19:40:34 2022
+ Choosing mode
+TRACE Tue Aug 23 19:40:35 2022
+ Applying DES cipher to files
+TRACE Tue Aug 23 19:40:35 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 19:40:35 2022
+ Getting string from file
+TRACE Tue Aug 23 19:40:35 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:40:35 2022
+ Allocating memory
+TRACE Tue Aug 23 19:40:35 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 19:40:35 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 19:40:35 2022
+ Closing a file
+TRACE Tue Aug 23 19:40:35 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:40:35 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 19:40:35 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 19:40:35 2022
+ Getting string from file
+TRACE Tue Aug 23 19:40:35 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:40:35 2022
+ Allocating memory
+TRACE Tue Aug 23 19:40:35 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 19:40:35 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 19:40:35 2022
+ Closing a file
+TRACE Tue Aug 23 19:40:35 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:40:35 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 19:40:35 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 19:40:35 2022
+ Getting string from file
+TRACE Tue Aug 23 19:40:35 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:40:35 2022
+ Allocating memory
+TRACE Tue Aug 23 19:40:35 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 19:40:35 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 19:40:35 2022
+ Closing a file
+TRACE Tue Aug 23 19:40:35 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:40:35 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 19:40:35 2022
+ Getting string from file
+TRACE Tue Aug 23 19:40:35 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:40:35 2022
+ Allocating memory
+TRACE Tue Aug 23 19:40:35 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 19:40:35 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 19:40:35 2022
+ Closing a file
+TRACE Tue Aug 23 19:40:35 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:40:35 2022
+ Closing a directory
+TRACE Tue Aug 23 19:40:35 2022
+ Choosing mode
+TRACE Tue Aug 23 19:40:38 2022
+ Opening a file for read
+INFO Tue Aug 23 19:41:16 2022
+ Starting a new session
+TRACE Tue Aug 23 19:41:16 2022
+ Choosing mode
+TRACE Tue Aug 23 19:41:16 2022
+ Applying DES cipher to files
+TRACE Tue Aug 23 19:41:16 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 19:41:16 2022
+ Getting string from file
+TRACE Tue Aug 23 19:41:16 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:41:16 2022
+ Allocating memory
+TRACE Tue Aug 23 19:41:16 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 19:41:16 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 19:41:16 2022
+ Closing a file
+TRACE Tue Aug 23 19:41:16 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:41:16 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 19:41:16 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 19:41:16 2022
+ Getting string from file
+TRACE Tue Aug 23 19:41:16 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:41:16 2022
+ Allocating memory
+TRACE Tue Aug 23 19:41:16 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 19:41:16 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 19:41:16 2022
+ Closing a file
+TRACE Tue Aug 23 19:41:16 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:41:16 2022
+ Wiping the data of a .h file
+TRACE Tue Aug 23 19:41:16 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 19:41:16 2022
+ Getting string from file
+TRACE Tue Aug 23 19:41:16 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:41:16 2022
+ Allocating memory
+TRACE Tue Aug 23 19:41:16 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 19:41:16 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 19:41:16 2022
+ Closing a file
+TRACE Tue Aug 23 19:41:16 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:41:16 2022
+ Applying DES to a .c file
+TRACE Tue Aug 23 19:41:16 2022
+ Getting string from file
+TRACE Tue Aug 23 19:41:16 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:41:16 2022
+ Allocating memory
+TRACE Tue Aug 23 19:41:16 2022
+ Starting DES ciphering
+TRACE Tue Aug 23 19:41:16 2022
+ Putting ciphered data to a file
+TRACE Tue Aug 23 19:41:16 2022
+ Closing a file
+TRACE Tue Aug 23 19:41:16 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:41:16 2022
+ Closing a directory
+TRACE Tue Aug 23 19:41:16 2022
+ Choosing mode
+TRACE Tue Aug 23 19:41:18 2022
+ Opening a file for read
+TRACE Tue Aug 23 19:41:23 2022
+ Getting string from file
+TRACE Tue Aug 23 19:41:23 2022
+ Setting buffer size to 256
+TRACE Tue Aug 23 19:41:23 2022
+ Allocating memory
+TRACE Tue Aug 23 19:41:23 2022
+ Outputing the content of file
+TRACE Tue Aug 23 19:41:23 2022
+ Freeing buf memory
+TRACE Tue Aug 23 19:41:23 2022
+ Choosing mode
+INFO Tue Aug 23 19:41:33 2022
+ Turning off the program
+INFO Tue Aug 23 19:41:33 2022
+ Ending the session

@@ -1,0 +1,3 @@
+vim
+cd door_management_files/door_configuration
+vim door_1.conf
