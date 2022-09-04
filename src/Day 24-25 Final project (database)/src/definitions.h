@@ -15,7 +15,7 @@
                             "\t3. UPDATE\n"\
                             "\t4. DELETE\n"\
                             "\t5. SELECT ALL\n"\
-                            "\t6. Get all active additional modules\n"\
+                            "\t6. Get all active modules\n"\
                             "\t7. Get all modules at certain memory level\n"\
                             "\t8. Set protected mode for module by id\n"\
                             "\t9. Move module by id to specified memory "\
